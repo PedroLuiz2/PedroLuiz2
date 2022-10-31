@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu sou o Pedro Luiz 
 
-<!--
-**PedroLuiz2/PedroLuiz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  🔭 Hoje trabalho com front-end </br>
+  🌱 Atualmente estudo: REACT, JS, CSS, Python e HTML </br>
+  😄 Pronomes: Ele/dele
+  
+  <h3>Quem é Pedro Luiz?</h3>
+  <p>
+Olá me chamo Pedro Luiz e sou um estudante de Análise e desenvolvimento de Sistemas na FIAP e atualmente no decorrer do meu curso, percebi que me encaixo   muito bem no Front End, por isso passei a me especializar cada vez mais nessa área; em termos de linguagens de Front-End domino HTML5, CSS3, JAVASCRIPT e REACTJS, mas também estudo e procuro dominar Python (focado para a análise de dados e Back-end)!
+ </p>
+ 
+ <h4>Quer me conhecer mais ? acesse abaixo o link do meu Portfolio</h4>
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h2>Mini-Portfolio - PedroLuiz2</h2>
+    <a href="" target="_blank"></a>
+</div>
